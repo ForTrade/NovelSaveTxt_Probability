@@ -1,0 +1,12 @@
+E:\C#\DownLoad\Probability\Probability\bin\Release\Probability.exe.config
+E:\C#\DownLoad\Probability\Probability\bin\Release\Probability.exe.manifest
+E:\C#\DownLoad\Probability\Probability\bin\Release\Probability.application
+E:\C#\DownLoad\Probability\Probability\bin\Release\Probability.exe
+E:\C#\DownLoad\Probability\Probability\bin\Release\Probability.pdb
+E:\C#\DownLoad\Probability\Probability\obj\Release\Probability.Form1.resources
+E:\C#\DownLoad\Probability\Probability\obj\Release\Probability.Properties.Resources.resources
+E:\C#\DownLoad\Probability\Probability\obj\Release\Probability.csproj.GenerateResource.Cache
+E:\C#\DownLoad\Probability\Probability\obj\Release\Probability.exe.manifest
+E:\C#\DownLoad\Probability\Probability\obj\Release\Probability.application
+E:\C#\DownLoad\Probability\Probability\obj\Release\Probability.exe
+E:\C#\DownLoad\Probability\Probability\obj\Release\Probability.pdb

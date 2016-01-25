@@ -1,0 +1,22 @@
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\bin\Debug\Probability.exe.config
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\bin\Debug\Probability.exe
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\bin\Debug\Probability.pdb
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\obj\Debug\Probability.csprojResolveAssemblyReference.cache
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\obj\Debug\Probability.Form1.resources
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\obj\Debug\Probability.Properties.Resources.resources
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\obj\Debug\Probability.csproj.GenerateResource.Cache
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\obj\Debug\Probability.exe
+c:\users\sangxy\documents\visual studio 2013\Projects\Probability\Probability\obj\Debug\Probability.pdb
+E:\C#\DownLoad\Probability\Probability\bin\Debug\Probability.exe.config
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.exe
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.pdb
+E:\C#\DownLoad\Probability\Probability\bin\Debug\Probability.exe
+E:\C#\DownLoad\Probability\Probability\bin\Debug\Probability.pdb
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.csprojResolveAssemblyReference.cache
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.Form1.resources
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.Properties.Resources.resources
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.csproj.GenerateResource.Cache
+E:\C#\DownLoad\Probability\Probability\bin\Debug\Probability.exe.manifest
+E:\C#\DownLoad\Probability\Probability\bin\Debug\Probability.application
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.exe.manifest
+E:\C#\DownLoad\Probability\Probability\obj\Debug\Probability.application

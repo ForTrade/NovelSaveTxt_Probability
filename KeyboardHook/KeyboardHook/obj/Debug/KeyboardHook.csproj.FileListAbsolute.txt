@@ -1,0 +1,12 @@
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.exe.manifest
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.application
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.exe
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.pdb
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.Hk_Form.resources
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.Properties.Resources.resources
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csproj.GenerateResource.Cache
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.exe.manifest
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.application
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.exe
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.pdb
+C:\Users\yzhao\Documents\GitHub\TmpTest\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csprojResolveAssemblyReference.cache

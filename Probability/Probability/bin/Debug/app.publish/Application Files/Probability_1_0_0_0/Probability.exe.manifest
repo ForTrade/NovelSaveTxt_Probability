@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Probability.exe" version="1.0.0.0" publicKeyToken="daf10583199e7ed3" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Probability" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Probability.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 清单选项
+          如果要更改 Windows 用户帐户控制级别，请用以下节点之一替换
+          requestedExecutionLevel 节点。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+          如果要利用文件和注册表虚拟化提供
+          向后兼容性，请删除 requestedExecutionLevel 节点。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Probability.exe" size="11264">
+      <assemblyIdentity name="Probability" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oa7dVD9HtkbIgBY/pUSlBRs7KV7FCpJLuSOSGuh5JsI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Probability.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=yzhao-PC\yzhao" issuerKeyHash="a795e1ebc09b93cdcdc851b108c46c0cf21044da" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LmNoav0zDoPLAMnIvWNNfatBqVkGmulRG8UPvqD0IUs=</DigestValue></Reference></SignedInfo><SignatureValue>UXP0AW+lzAMHZhEfXlQ8wAIr3lCyB/shAxrroZudqrheSrImSUGoRpEmLx36SjDxguhW8AZW85rkRIRFGxOL3LjD8YRg+IKoX+izcGXD9ulR9WncGQSpU7B7olUEy4vLml12Wp3SfU0fruGEsHzHxx9mQavy7KJCdyMIuL+uolI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wndZj+vsdRM0ScfLairjlFufkbe/Pbbd6NzrJ0NNZ+70sATLcPtR42oklPbLXqYue7J5iU6NUvbEPIh5GbrmOTF2xp0Z8bRAMhMeRee466dVumvZpY9GFHkSu0138H3TuU42UYxD0onMyfTnqO8yy1YGXXwXrD0jhxQnDcZB/7k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4b21f4a0be0fc51b51e99a0659a941ab7d4d63bdc8c900cb830e33fd6a68632e" Description="" Url=""><as:assemblyIdentity name="Probability.exe" version="1.0.0.0" publicKeyToken="daf10583199e7ed3" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=yzhao-PC\yzhao</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>In91Z6S0yhwyOuJdfFjyuBANmmweF2Q5H+RwT7XrjJo=</DigestValue></Reference></SignedInfo><SignatureValue>sCEvHBsouHyOFPim2Y5Xu2xm0As1wzHTrcgcSxTAf8cNq8qDFUwD+MK9aoXPGuIvRH4VZbpbmwZsTszmUWdf/LqojXHhKw9mjx+sdP9uIsstFxErCIMgWMNEXQ8TYnzDI9CdCIhW13/+z4ZuSg+0S9bospwXa/bfUn/YTE937GA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wndZj+vsdRM0ScfLairjlFufkbe/Pbbd6NzrJ0NNZ+70sATLcPtR42oklPbLXqYue7J5iU6NUvbEPIh5GbrmOTF2xp0Z8bRAMhMeRee466dVumvZpY9GFHkSu0138H3TuU42UYxD0onMyfTnqO8yy1YGXXwXrD0jhxQnDcZB/7k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQVCDuDkixpLRIZbUgPUiUMDANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAeQB6AGgAYQBvAC0AUABDAFwAeQB6AGgAYQBvMB4XDTE2MDEyMjA2MjM0OVoXDTE3MDEyMTEyMjM0OVowJzElMCMGA1UEAx4cAHkAegBoAGEAbwAtAFAAQwBcAHkAegBoAGEAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwndZj+vsdRM0ScfLairjlFufkbe/Pbbd6NzrJ0NNZ+70sATLcPtR42oklPbLXqYue7J5iU6NUvbEPIh5GbrmOTF2xp0Z8bRAMhMeRee466dVumvZpY9GFHkSu0138H3TuU42UYxD0onMyfTnqO8yy1YGXXwXrD0jhxQnDcZB/7kCAwEAATANBgkqhkiG9w0BAQsFAAOBgQARakTppdxnoKyCVXaNDNLUyTg5u0ol4oZP6piudBcd5Ro44ZGX9fWGCOzlZDtcJYwgWGFd3G+mNYszgOIdx4JCmh4USi97QasGdt0PUaddP5p6pHGwq2NQ2Pzfq4IauijJf3oNMcODZ/mnK1l0syY/9cLhqvYKl6RYOpNfITpo+Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
